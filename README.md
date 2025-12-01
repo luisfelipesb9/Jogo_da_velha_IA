@@ -1,2 +1,2 @@
-# Projeto de jogo da velha criado utilizando IA, humano x máquina.
-## A máquina nunca perde, apenas pode empatar. Feito para o FreeCodeCamp.
+# Tic-tac-toe game project created using AI, human-machine interaction.
+## The machine never loses, it can only draw. Made for FreeCodeCamp.
